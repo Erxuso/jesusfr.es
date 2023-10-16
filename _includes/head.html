@@ -14,6 +14,12 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src='https://jesusfr.es/assets/js/snowfall.jquery.min.js'></script>
+<script type='text/javascript'>     
+$(document).ready(function(){
+	$(document).snowfall({shadow : true, round : true,  minSize: 5, maxSize:8});
+});
+</script>
 <!--[if IE ]>
   <style>
     /* old IE unsupported flexbox fixes */
