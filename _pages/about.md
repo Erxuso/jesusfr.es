@@ -12,7 +12,7 @@ date: 2019-02-15
 <center> Web de Funkos
 <a href="https://www.funkoplanet.com" target="_blank">Entra</a> </center>
 
-<center> web de Pajaros
+<center> Web de Pajaros
 <a href="https://www.pajaros.pro" target="_blank">Entra</a> </center>
 
 <center> Web de Albornoz
