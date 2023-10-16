@@ -17,3 +17,6 @@ www.pajaros.pro </center>
 
 <center> Web de Albornoz
 www.albornoz.net </center>
+
+<center> Web de Peliculas
+www.pelisinfo.com </center>
