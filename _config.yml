@@ -106,7 +106,8 @@ author:
   bio              : "Informatico"
   location         : "España"
   email            : "jesusflores201@gmail.com"
-  uri              : www.pelisinfo.com
+  uri              : https://www.pelisinfo.com
+  uri              : https://www.funkoplanet.com
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
