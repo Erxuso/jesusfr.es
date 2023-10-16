@@ -36,7 +36,7 @@ Seguidamente en el body agregaremos lo siguiente:
 
 ```javascript
 
-<script src='https://davidrf.es/assets/js/snowfall.jquery.min.js'></script>
+<script src='https://jesusfr.es/assets/js/snowfall.jquery.min.js'></script>
 <script type='text/javascript'>     
 $(document).ready(function(){
 	$(document).snowfall({shadow : true, round : true,  minSize: 5, maxSize:8});
