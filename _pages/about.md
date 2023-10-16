@@ -7,16 +7,16 @@ date: 2019-02-15
 <center>Mis Webs</center>
 
 <center> Web de Perros
-www.crucesdeperros.com </center>
+<a href="" target="_blank">www.crucedeperros.org</a></center>
 
 <center> Web de Funkos
-www.funkoplanet.com </center>
+<a href="" target="_blank">www.funkoplanet.com</a> </center>
 
 <center> web de Pajaros
-www.pajaros.pro </center>
+<a href="" target="_blank">www.pajaros.pro</a> </center>
 
 <center> Web de Albornoz
-www.albornoz.net </center>
+<a href="" target="_blank">www.albornoz.net</a> </center>
 
 <center> Web de Peliculas
-www.pelisinfo.com </center>
+<a href="" target="_blank">www.pelisinfo.com</a> </center>
