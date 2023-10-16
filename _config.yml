@@ -101,12 +101,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "DavidRF"
-  avatar           : "/assets/images/avatar.png"
-  bio              : "Developer, Gamer<br>StarZone"
+  name             : "JesusFR"
+  avatar           : "/assets/images/logoxuso.png"
+  bio              : "Informatico, Gamer<br>Webs"
   location         : "España"
-  email            : "david_3469@outlook.com"
-  uri              : http://starzone.se
+  email            : "jesusflores201@gmail.com"
+  uri              : pelisinfo.com
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "davidrfyt"
+  github           : "Erxuso"
   gitlab           :
   google_plus      :
   keybase          : 
@@ -124,13 +124,13 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : davidrfyt
+  steam            : ᴱʳXusoˣᴰ
   tumblr           :
   twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://www.youtube.com/channel/UCFMrIw5BMbY_YHiPazzAErA"
 
 
 # Reading Files
