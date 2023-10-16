@@ -6,14 +6,14 @@ date: 2019-02-15
 
 <center>Mis Webs</center>
 
-Web de Perros
-www.crucesdeperros.com
+<center> Web de Perros
+www.crucesdeperros.com </center>
 
-Web de Funkos
-www.funkoplanet.com
+<center> Web de Funkos
+www.funkoplanet.com </center>
 
-web de Pajaros
-www.pajaros.pro
+<center> web de Pajaros
+www.pajaros.pro </center>
 
-Web de Albornoz
-www.albornoz.net
+<center> Web de Albornoz
+www.albornoz.net </center>
