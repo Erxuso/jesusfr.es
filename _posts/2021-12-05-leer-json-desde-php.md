@@ -80,7 +80,7 @@ Lo primero de todo es cargar el archivo JSON para ello escribiremos lo siguiente
 
 ```php
 
-$dataJson = @file_get_contents("https://davidrf.es/assets/json/pokemon.json");
+$dataJson = @file_get_contents("https://jesusfr.es/assets/json/pokemon.json");
 
 ```
 
@@ -116,7 +116,7 @@ El código usado para el anterior ejemplo es este:
 
 <?php
 
-$jsonFile = "https://davidrf.es/assets/json/pokemon.json";
+$jsonFile = "https://jesusfr.es/assets/json/pokemon.json";
 
 $getDataFromFile = @file_get_contents($jsonFile);
 
@@ -140,7 +140,7 @@ foreach($decodeData as $dataPokemon){
         <tr>
         <td>Foto: </td>
         <td>
-            <img src="https://davidrf.es/assets/images/12_2021/pokemons/<?= $dataPokemon['variations'][0]['image']; ?>" width="200px">
+            <img src="https://jesusfr.es/assets/images/12_2021/pokemons/<?= $dataPokemon['variations'][0]['image']; ?>" width="200px">
         </td>
         </tr>
         <tr>
