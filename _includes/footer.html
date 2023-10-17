@@ -19,7 +19,6 @@
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
 
 <script>
-
 // Numero de copos, recomendados entre 30 y 40
 var nieve_cantidad=70;
 
@@ -88,8 +87,8 @@ function initnieve() {
         if (nieve_zona==3) {nieve[i].posx=aleatorio(marginright/2-nieve[i].size)+marginright/4}
         if (nieve_zona==4) {nieve[i].posx=aleatorio(marginright/2-nieve[i].size)+marginright/2}
         nieve[i].posy=aleatorio(2*marginbottom-marginbottom-2*nieve[i].size)
-        nieve[i].style.left=nieve[i].posx
-        nieve[i].style.top=nieve[i].posy
+        nieve[i].style.left=nieve[i].posx + 'px';
+        nieve[i].style.top=nieve[i].posy + 'px';
     }
     movenieve()
 }
@@ -98,8 +97,8 @@ function movenieve() {
     for (i=0;i<=nieve_cantidad;i++) {
         crds[i] += x_mv[i];
         nieve[i].posy+=nieve[i].sink
-        nieve[i].style.left=nieve[i].posx+lftrght[i]*Math.sin(crds[i]);
-        nieve[i].style.top=nieve[i].posy
+        nieve[i].style.left=nieve[i].posx+lftrght[i]*Math.sin(crds[i]) + 'px';;
+        nieve[i].style.top=nieve[i].posy + 'px';
 
         if (nieve[i].posy>=marginbottom-2*nieve[i].size || parseInt(nieve[i].style.left)>(marginright-3*lftrght[i])){
             if (nieve_zona==1) {nieve[i].posx=aleatorio(marginright-nieve[i].size)}
