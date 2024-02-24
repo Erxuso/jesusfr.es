@@ -16,4 +16,4 @@ date: 2019-02-15
 <a href="https://pelisinfo.com" target="_blank">Entra</a> </center>
 
 <center> Guia Project Zomboid
-<a href="projectzomboidserver.com" target="_blank">Entra</a> </center>
+<a href="https://projectzomboidserver.com" target="_blank">Entra</a> </center>
