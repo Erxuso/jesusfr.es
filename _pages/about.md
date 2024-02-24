@@ -5,6 +5,8 @@ date: 2019-02-15
 ---
 
 <center>Mis Webs</center>
+<center> Foro YourForo
+<a href="https://yourforo.com" target="_blank">Entra</a> </center>
 
 <center> Web de Perros
 <a href="https://crucesdeperros.org" target="_blank">Entra</a> </center>
