@@ -8,7 +8,7 @@ date: 2019-02-15
 <center> Foro YourForo
 <a href="https://yourforo.com" target="_blank">Entra</a> </center>
 
-<center> Web de Perros
+<center> Web de Informacion sobre los Perros
 <a href="https://crucesdeperros.org" target="_blank">Entra</a> </center>
 
 <center> Web de Peliculas
